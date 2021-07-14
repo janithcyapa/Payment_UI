@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "involuted-river-305914"
+  },
+  "targets": {
+    "involuted-river-305914": {
+      "hosting": {
+        "payment": [
+          "aplus-payment"
+        ]
+      }
+    }
+  }
+}
